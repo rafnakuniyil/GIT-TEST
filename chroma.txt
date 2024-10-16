@@ -1,0 +1,7 @@
+With the rise of large language models (LLMs) and their applications, we have seen an increase in the popularity of integration tools, LLMOps frameworks, and vector databases. This is because working with LLMs requires a different approach than working with traditional machine learning models.
+
+One of the core enabling technologies for LLMs is vector embeddings. While computers cannot directly understand text, embeddings represent text numerically. All user-provided text is converted to embeddings, which are used to generate responses.
+
+Converting text into embedding is a time-consuming process. To avoid that, we have vector databases explicitly designed for efficient storage and retrieval of vector embeddings.
+
+In this tutorial, we will learn about vector stores and Chroma DB, an open-source database for storing and managing embeddings. We will also learn how to add and remove documents, perform similarity searches, and convert our text into embeddings.
